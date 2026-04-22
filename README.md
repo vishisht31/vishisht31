@@ -55,7 +55,7 @@ I love solving complex problems and have solved **900+ coding questions** on pla
 ### **Delhi Technological University**
 **B.Tech in Software Engineering**  
 *Aug 2021 - May 2025*  
-**CGPA:** 7.5
+**CGPA:** 7.8
 
 ---
 
